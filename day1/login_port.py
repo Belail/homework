@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#python3.6
+#env/python3
 #folw_chart : https://www.processon.com/view/link/58c2d3d7e4b0f2e6f8319e18
 
 forbidden_file = open("forbidden_list.txt","a+")
